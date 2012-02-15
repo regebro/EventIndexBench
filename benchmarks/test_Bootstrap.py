@@ -54,7 +54,7 @@ class Bootstrap(FunkLoadTestCase):
     
     def test_create_simple_site(self):
         self.setBasicAuth(self.admin_id, self.admin_pwd)
-        #self.create_site('simple', 'Simple')
+        self.create_site('simple', 'Simple')
         
         tz = pytz.timezone('CET')
         for month, days in enumerate(calendar.mdays):

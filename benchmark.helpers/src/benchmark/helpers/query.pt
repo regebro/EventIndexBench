@@ -1,6 +1,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
       lang="en">
 <body>
-   <p><strong tal:content="view/query"/> objects returned</p>
+   <p><strong tal:content="view/query"/> objects found</p>
 </body>
 </html>
