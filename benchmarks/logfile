@@ -1,0 +1,2041 @@
+
+>>> HTTPResponse.getDOM('/simple/events/portal_factory/Event/event.2012-02-14.3645223054/edit', 200, 'OK', <httplib.HTTPMessage instance at 0x91746ec>)
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+    
+    
+    
+    
+    
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+        <base href="http://localhost:8080/simple/events/portal_factory/Event/event.2012-02-14.3645223054" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="kss-base-url" href="http://localhost:8080/simple/events/portal_factory/Event/event.2012-02-14.3645223054/" />
+
+  
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/member.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/base.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/public.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/columns.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/authoring.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/portlets.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/controlpanel.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/deprecated.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/navtree.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/invisibles.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/forms.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/++resource++plone.app.discussion.stylesheets/discussion.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/ploneKss.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/++resource++tinymce.stylesheets/tinymce.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/print.css" />
+    <link rel="stylesheet" type="text/css" media="handheld, screen and (max-device-width: 480px)" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/mobile.css" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/IEFixes.css" />
+        <![endif]-->
+    
+    <link rel="stylesheet" type="text/css" media="all" href="http://localhost:8080/simple/portal_css/Sunburst%20Theme/ploneCustom.css" />
+
+  
+    <link rel="stylesheet" data-rel="kinetic-stylesheet" type="text/kss" href="http://localhost:8080/simple/portal_kss/Sunburst%20Theme/++resource++tinymce.kss/tinymce.kss" />
+    <link rel="stylesheet" data-rel="kinetic-stylesheet" type="text/kss" href="http://localhost:8080/simple/portal_kss/Sunburst%20Theme/at.kss" />
+    <link rel="stylesheet" data-rel="kinetic-stylesheet" type="text/kss" href="http://localhost:8080/simple/portal_kss/Sunburst%20Theme/plone.kss" />
+    <link rel="stylesheet" data-rel="kinetic-stylesheet" type="text/kss" href="http://localhost:8080/simple/portal_kss/Sunburst%20Theme/++resource++plone.app.form.kss" />
+    <link rel="stylesheet" data-rel="kinetic-stylesheet" type="text/kss" href="http://localhost:8080/simple/portal_kss/Sunburst%20Theme/++resource++plone.app.z3cform" />
+  
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/jquery.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/jquery-integration.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/++resource++plone.app.jquerytools.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/++resource++plone.app.jquerytools.overlayhelpers.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/++resource++plone.app.jquerytools.form.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/register_function.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/plone_javascript_variables.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/nodeutilities.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/cookie_functions.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/livesearch.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/select_all.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/dragdropreorder.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/collapsiblesections.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/form_tabbing.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/popupforms.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/input-label.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/jquery.highlightsearchterms.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/first_input_focus.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/accessibility.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/styleswitcher.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/toc.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/collapsibleformfields.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/++resource++plone.app.discussion.javascripts/comments.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/sarissa.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/dropdown.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/table_sorter.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/calendar_formfield.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/formUnload.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/formsubmithelpers.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/unlockOnFormUnload.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/tiny_mce.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/++resource++kukit.js"></script>
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/tiny_mce_init.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://localhost:8080/simple/portal_javascripts/Sunburst%20Theme/iefixes.js"></script>
+       <![endif]-->
+     
+
+
+<title>[···] &mdash; Simple</title>
+        
+    <link rel="author" href="http://localhost:8080/simple/author/admin" title="Author information" />
+
+
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://localhost:8080/simple/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://localhost:8080/simple/touch_icon.png" />
+
+
+
+    <link rel="home" href="http://localhost:8080/simple" title="Front page" />
+
+    <link rel="contents" href="http://localhost:8080/simple/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://localhost:8080/simple/search_form" title="Search this site" />
+
+
+
+        
+        
+    
+  
+        
+        
+    
+      <style type="text/css" media="all"><!-- @import url(http://localhost:8080/simple/jscalendar/calendar-system.css); --></style>
+    
+    
+  
+        
+    
+    
+      <script type="text/javascript" charset="iso-8859-1" src="http://localhost:8080/simple/widgets/js/textcount.js">
+      </script>
+    
+    
+      <script type="text/javascript" charset="iso-8859-1" src="http://localhost:8080/simple/jscalendar/calendar_stripped.js">
+      </script>
+    
+    
+      <script type="text/javascript" charset="iso-8859-1" src="http://localhost:8080/simple/jscalendar/calendar-en.js">
+      </script>
+    
+    
+      <script type="text/javascript" charset="iso-8859-1" src="http://localhost:8080/simple/widgets/js/keywordmultiselect.js">
+      </script>
+    
+    
+      <script type="text/javascript" charset="iso-8859-1" src="http://localhost:8080/simple/referencebrowser.js">
+      </script>
+    
+    
+  
+
+        <meta name="viewport" content="width=device-width; initial-scale=0.6666; maximum-scale=1.0; minimum-scale=0.6666" />
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+</head>
+
+<body class="template-atct_edit portaltype-event site-simple section-events icons-on" dir="ltr">
+
+<div id="visual-portal-wrapper">
+
+        <div id="portal-top" class="row">
+<div class="cell width-full position-0">
+            <div id="portal-header">
+    <p class="hiddenStructure">
+  <a accesskey="2" href="http://localhost:8080/simple/events/portal_factory/Event/event.2012-02-14.3645223054/edit#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://localhost:8080/simple/events/portal_factory/Event/event.2012-02-14.3645223054/edit#portal-globalnav">Skip to navigation</a>
+</p>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+<dl class="actionMenu deactivated" id="portal-personaltools">
+  
+  <dt class="actionMenuHeader">
+    <a id="user-name" href="http://localhost:8080/simple/dashboard">admin</a>
+  </dt>
+  <dd class="actionMenuContent">
+    <ul>
+        <li id="personaltools-dashboard">
+            <a href="http://localhost:8080/simple/dashboard">Dashboard</a>
+        </li>
+        <li id="personaltools-preferences">
+            <a href="http://localhost:8080/simple/@@personal-preferences">Preferences</a>
+        </li>
+        <li id="personaltools-plone_setup">
+            <a href="http://localhost:8080/simple/@@overview-controlpanel">Site Setup</a>
+        </li>
+        <li id="personaltools-logout">
+            <a href="http://localhost:8080/simple/logout">Log out</a>
+        </li>
+    </ul>
+  </dd>
+  
+</dl>
+
+
+
+</div>
+
+
+
+<div id="portal-searchbox">
+    <form name="searchform" id="searchGadget_form" action="http://localhost:8080/simple/search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="searchGadget">Search Site</label>
+
+        <input name="SearchableText" type="text" size="18" title="Search Site" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+
+        <input class="searchButton" type="submit" value="Search" />
+
+        <div class="searchSection">
+            <input id="searchbox_currentfolder_only" class="noborder" type="checkbox" name="path" value="/simple/events/portal_factory/Event" />
+            <label for="searchbox_currentfolder_only" style="cursor: pointer">
+                only in current section
+            </label>
+        </div>
+
+        <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://localhost:8080/simple/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<a id="portal-logo" title="Simple" accesskey="1" href="http://localhost:8080/simple">
+    <img src="http://localhost:8080/simple/logo.png" alt="Simple" title="Simple" height="56" width="215" /></a>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://localhost:8080/simple" title="">Home</a></li><li id="portaltab-news" class="plain"><a href="http://localhost:8080/simple/news" title="Site News">News</a></li><li id="portaltab-events" class="selected"><a href="http://localhost:8080/simple/events" title="Site Events">Events</a></li><li id="portaltab-Members" class="plain"><a href="http://localhost:8080/simple/Members" title="Site Users">Users</a></li></ul>
+
+</div>
+
+</div>
+        </div>
+    <div id="portal-columns" class="row">
+
+        <div id="portal-column-content" class="cell width-full position-0">
+
+            <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="http://localhost:8080/simple">Home</a>
+        <span class="breadcrumbSeparator">
+            &rsaquo;
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://localhost:8080/simple/events">Events</a>
+            <span class="breadcrumbSeparator">
+                &rsaquo;
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">[···]</span>
+         
+    </span>
+
+</div>
+
+<div id="plone-lock-status">
+  
+</div>
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+      
+        <div>
+      
+        <h1 class="documentFirstHeading">
+          Add
+          <span> Event </span>
+        </h1>
+        
+
+
+
+       
+
+      
+      
+
+    </div>
+        <div>
+        
+            <p class="discreet">Events can be shown in calendars.</p>
+        
+    </div>
+        <div>
+      <form name="edit_form" method="post" enctype="multipart/form-data" class="enableUnloadProtection enableAutoFocus enableFormTabbing enableUnlockProtection" action="http://localhost:8080/simple/events/portal_factory/Event/event.2012-02-14.3645223054/atct_edit" id="event-base-edit">
+          
+
+          
+
+          
+            
+              
+                <fieldset id="fieldset-default">
+                  <legend id="fieldsetlegend-default">Default</legend>
+                  
+                    
+
+      
+        
+        
+            <input type="hidden" name="id" value="event.2012-02-14.3645223054" />
+        
+      
+    
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesStringWidget  kssattr-atfieldname-title" id="archetypes-fieldname-title">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="title">
+                Title
+                <span class="required" title="Required" style="color: #f00;">
+                  &#x25a0;
+                </span>
+            </label>
+            <div class="formHelp" id="title_help"></div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          <input type="text" name="title" class="blurrable firstToFocus" id="title" value="" size="30" maxlength="255" />
+        </div>
+      
+
+      
+
+    
+    
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesTextAreaWidget  kssattr-atfieldname-description" id="archetypes-fieldname-description">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="description">
+                Description
+                
+            </label>
+            <div class="formHelp" id="description_help">Used in item listings and search results.</div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          
+          
+      
+
+        <textarea class="blurrable firstToFocus" rows="5" name="description" cols="40" id="description"></textarea>
+
+            
+
+            
+
+      
+    
+          
+      
+
+        
+        
+          <input type="hidden" name="description_text_format" value="text/plain" />
+        
+      
+    
+        
+        </div>
+      
+
+      
+
+    
+    
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesStringWidget  kssattr-atfieldname-location" id="archetypes-fieldname-location">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="location">
+                Event Location
+                
+            </label>
+            <div class="formHelp" id="location_help"></div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          <input type="text" name="location" class="blurrable firstToFocus" id="location" value="" size="30" maxlength="255" />
+        </div>
+      
+
+      
+
+    
+    
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesCalendarWidget  kssattr-atfieldname-startDate" id="archetypes-fieldname-startDate">
+          <span></span>
+          
+          
+          
+          <div class="fieldErrorBox"></div>
+          
+          <div class="formQuestion label">
+              Event Starts
+              <span class="required" title="Required" style="color: #f00;">
+                &#x25a0;
+              </span>
+          </div>
+          <div class="formHelp" id="startDate_help"></div>
+          
+            <div class="plone_jscalendar">
+
+      <input type="hidden" name="startDate" value="2012/02/14 22:36:4.539909 GMT+1" id="edit_form_startDate_0" />
+      <input type="hidden" id="startDate" />
+
+      
+
+      
+        <span>
+          <select name="startDate_year" id="edit_form_startDate_0_year" size="1">
+          <option value="0000">--</option>
+          <option value="2001">2001</option>
+          <option value="2002">2002</option>
+          <option value="2003">2003</option>
+          <option value="2004">2004</option>
+          <option value="2005">2005</option>
+          <option value="2006">2006</option>
+          <option value="2007">2007</option>
+          <option value="2008">2008</option>
+          <option value="2009">2009</option>
+          <option value="2010">2010</option>
+          <option value="2011">2011</option>
+          <option value="2012" selected="selected">2012</option>
+          <option value="2013">2013</option>
+          <option value="2014">2014</option>
+          <option value="2015">2015</option>
+          <option value="2016">2016</option>
+          <option value="2017">2017</option>
+
+          </select>
+        </span>
+
+        
+
+        <span>/</span>
+
+        <span>
+        <select name="startDate_month" id="edit_form_startDate_0_month" size="1">
+          <option value="00">--</option>
+          <option value="01">January</option>
+          <option value="02" selected="selected">February</option>
+          <option value="03">March</option>
+          <option value="04">April</option>
+          <option value="05">May</option>
+          <option value="06">June</option>
+          <option value="07">July</option>
+          <option value="08">August</option>
+          <option value="09">September</option>
+          <option value="10">October</option>
+          <option value="11">November</option>
+          <option value="12">December</option>
+        </select>
+        </span>
+
+        <span>/</span>
+
+        <select name="startDate_day" id="edit_form_startDate_0_day" size="1">
+        
+            <option value="00">--</option>
+            <option value="01">1</option>
+            <option value="02">2</option>
+            <option value="03">3</option>
+            <option value="04">4</option>
+            <option value="05">5</option>
+            <option value="06">6</option>
+            <option value="07">7</option>
+            <option value="08">8</option>
+            <option value="09">9</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
+            <option value="13">13</option>
+            <option value="14" selected="selected">14</option>
+            <option value="15">15</option>
+            <option value="16">16</option>
+            <option value="17">17</option>
+            <option value="18">18</option>
+            <option value="19">19</option>
+            <option value="20">20</option>
+            <option value="21">21</option>
+            <option value="22">22</option>
+            <option value="23">23</option>
+            <option value="24">24</option>
+            <option value="25">25</option>
+            <option value="26">26</option>
+            <option value="27">27</option>
+            <option value="28">28</option>
+            <option value="29">29</option>
+            <option value="30">30</option>
+            <option value="31">31</option>
+        
+        </select>
+        <span class="plone-jscalendar-popup" style="display:none" id="edit_form_startDate_0_popup">
+          <input type="hidden" name="startDate_yearStart" value="0000" id="edit_form_startDate_0_yearStart" />
+          <input type="hidden" name="startDate_yearEnd" value="2017" id="edit_form_startDate_0_yearEnd" />
+          <img src="http://localhost:8080/simple/popup_calendar.png" alt="" title="" height="16" width="16" />
+        </span>
+
+      
+
+      &nbsp;
+      <span>
+          <select name="startDate_hour" id="edit_form_startDate_0_hour" size="1">
+
+              <option value="12">--</option>
+              <option value="12">12</option>
+              <option value="01">01</option>
+              <option value="02">02</option>
+              <option value="03">03</option>
+              <option value="04">04</option>
+              <option value="05">05</option>
+              <option value="06">06</option>
+              <option value="07">07</option>
+              <option value="08">08</option>
+              <option value="09">09</option>
+              <option value="10" selected="selected">10</option>
+              <option value="11">11</option>
+
+          </select>
+      </span>
+
+      
+
+      <span>:</span>
+
+      <span>
+          <select name="startDate_minute" id="edit_form_startDate_0_minute" size="1">
+
+            <option value="00">--</option>
+            <option value="00">00</option>
+            <option value="05">05</option>
+            <option value="10">10</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+            <option value="25">25</option>
+            <option value="30">30</option>
+            <option value="35">35</option>
+            <option value="40" selected="selected">40</option>
+            <option value="45">45</option>
+            <option value="50">50</option>
+            <option value="55">55</option>
+
+         </select>
+      </span>
+
+      
+
+
+      <span>
+        <select name="startDate_ampm" id="edit_form_startDate_0_ampm" size="1">
+
+          <option value="AM">--</option>
+          <option value="AM">AM</option>
+          <option value="PM" selected="selected">PM</option>
+
+        </select>
+      </span>
+
+      
+    </div>
+          
+        
+        </div>
+      
+
+      
+
+    
+    
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesCalendarWidget  kssattr-atfieldname-endDate" id="archetypes-fieldname-endDate">
+          <span></span>
+          
+          
+          
+          <div class="fieldErrorBox"></div>
+          
+          <div class="formQuestion label">
+              Event Ends
+              <span class="required" title="Required" style="color: #f00;">
+                &#x25a0;
+              </span>
+          </div>
+          <div class="formHelp" id="endDate_help"></div>
+          
+            <div class="plone_jscalendar">
+
+      <input type="hidden" name="endDate" value="2012/02/14 22:36:4.540071 GMT+1" id="edit_form_endDate_1" />
+      <input type="hidden" id="endDate" />
+
+      
+
+      
+        <span>
+          <select name="endDate_year" id="edit_form_endDate_1_year" size="1">
+          <option value="0000">--</option>
+          <option value="2001">2001</option>
+          <option value="2002">2002</option>
+          <option value="2003">2003</option>
+          <option value="2004">2004</option>
+          <option value="2005">2005</option>
+          <option value="2006">2006</option>
+          <option value="2007">2007</option>
+          <option value="2008">2008</option>
+          <option value="2009">2009</option>
+          <option value="2010">2010</option>
+          <option value="2011">2011</option>
+          <option value="2012" selected="selected">2012</option>
+          <option value="2013">2013</option>
+          <option value="2014">2014</option>
+          <option value="2015">2015</option>
+          <option value="2016">2016</option>
+          <option value="2017">2017</option>
+
+          </select>
+        </span>
+
+        
+
+        <span>/</span>
+
+        <span>
+        <select name="endDate_month" id="edit_form_endDate_1_month" size="1">
+          <option value="00">--</option>
+          <option value="01">January</option>
+          <option value="02" selected="selected">February</option>
+          <option value="03">March</option>
+          <option value="04">April</option>
+          <option value="05">May</option>
+          <option value="06">June</option>
+          <option value="07">July</option>
+          <option value="08">August</option>
+          <option value="09">September</option>
+          <option value="10">October</option>
+          <option value="11">November</option>
+          <option value="12">December</option>
+        </select>
+        </span>
+
+        <span>/</span>
+
+        <select name="endDate_day" id="edit_form_endDate_1_day" size="1">
+        
+            <option value="00">--</option>
+            <option value="01">1</option>
+            <option value="02">2</option>
+            <option value="03">3</option>
+            <option value="04">4</option>
+            <option value="05">5</option>
+            <option value="06">6</option>
+            <option value="07">7</option>
+            <option value="08">8</option>
+            <option value="09">9</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
+            <option value="13">13</option>
+            <option value="14" selected="selected">14</option>
+            <option value="15">15</option>
+            <option value="16">16</option>
+            <option value="17">17</option>
+            <option value="18">18</option>
+            <option value="19">19</option>
+            <option value="20">20</option>
+            <option value="21">21</option>
+            <option value="22">22</option>
+            <option value="23">23</option>
+            <option value="24">24</option>
+            <option value="25">25</option>
+            <option value="26">26</option>
+            <option value="27">27</option>
+            <option value="28">28</option>
+            <option value="29">29</option>
+            <option value="30">30</option>
+            <option value="31">31</option>
+        
+        </select>
+        <span class="plone-jscalendar-popup" style="display:none" id="edit_form_endDate_1_popup">
+          <input type="hidden" name="endDate_yearStart" value="0000" id="edit_form_endDate_1_yearStart" />
+          <input type="hidden" name="endDate_yearEnd" value="2017" id="edit_form_endDate_1_yearEnd" />
+          <img src="http://localhost:8080/simple/popup_calendar.png" alt="" title="" height="16" width="16" />
+        </span>
+
+      
+
+      &nbsp;
+      <span>
+          <select name="endDate_hour" id="edit_form_endDate_1_hour" size="1">
+
+              <option value="12">--</option>
+              <option value="12">12</option>
+              <option value="01">01</option>
+              <option value="02">02</option>
+              <option value="03">03</option>
+              <option value="04">04</option>
+              <option value="05">05</option>
+              <option value="06">06</option>
+              <option value="07">07</option>
+              <option value="08">08</option>
+              <option value="09">09</option>
+              <option value="10" selected="selected">10</option>
+              <option value="11">11</option>
+
+          </select>
+      </span>
+
+      
+
+      <span>:</span>
+
+      <span>
+          <select name="endDate_minute" id="edit_form_endDate_1_minute" size="1">
+
+            <option value="00">--</option>
+            <option value="00">00</option>
+            <option value="05">05</option>
+            <option value="10">10</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+            <option value="25">25</option>
+            <option value="30">30</option>
+            <option value="35">35</option>
+            <option value="40" selected="selected">40</option>
+            <option value="45">45</option>
+            <option value="50">50</option>
+            <option value="55">55</option>
+
+         </select>
+      </span>
+
+      
+
+
+      <span>
+        <select name="endDate_ampm" id="edit_form_endDate_1_ampm" size="1">
+
+          <option value="AM">--</option>
+          <option value="AM">AM</option>
+          <option value="PM" selected="selected">PM</option>
+
+        </select>
+      </span>
+
+      
+    </div>
+          
+        
+        </div>
+      
+
+      
+
+    
+    
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesRichWidget  kssattr-atfieldname-text" id="archetypes-fieldname-text">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="text">
+                Event body text
+                
+            </label>
+            <div class="formHelp" id="text_help"></div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          
+          
+              
+      
+
+<div class="fieldTextFormat">
+    <label>Text Format</label>
+
+    <select id="text_text_format" name="text_text_format">
+      <option selected="selected" value="text/html">HTML</option>
+      <option value="text/x-web-textile">Textile</option>
+      <option value="text/x-plone-outputfilters-html">Plone Output Filters HTML</option>
+    </select>
+</div>
+
+
+
+      
+    
+          
+          
+      
+        <div>
+  
+   <div>
+  
+  <textarea cols="40" rows="25" name="text"
+            title="{&quot;valid_elements&quot;: {&quot;code&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;kbd&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;aside&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;img&quot;: [&quot;align&quot;, &quot;alt&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;height&quot;, &quot;hspace&quot;, &quot;id&quot;, &quot;ismap&lt;ismap&quot;, &quot;longdesc&quot;, &quot;name&quot;, &quot;src&quot;, &quot;style&quot;, &quot;title&quot;, &quot;usemap&quot;, &quot;vspace&quot;, &quot;width&quot;], &quot;title&quot;: [&quot;dir&quot;, &quot;id&quot;], &quot;tt&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;tr&quot;: [&quot;align&quot;, &quot;char&quot;, &quot;charoff&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;li&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;, &quot;type&quot;], &quot;source&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;tfoot&quot;: [&quot;align&quot;, &quot;char&quot;, &quot;charoff&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;th&quot;: [&quot;abbr&quot;, &quot;align&quot;, &quot;axis&quot;, &quot;char&quot;, &quot;charoff&quot;, &quot;class&quot;, &quot;colspan&quot;, &quot;dir&quot;, &quot;headers&quot;, &quot;id&quot;, &quot;nowrap&quot;, &quot;rowspan&quot;, &quot;scope&quot;, &quot;style&quot;, &quot;title&quot;], &quot;td&quot;: [&quot;abbr&quot;, &quot;align&quot;, &quot;axis&quot;, &quot;char&quot;, &quot;charoff&quot;, &quot;class&quot;, &quot;colspan&quot;, &quot;dir&quot;, &quot;headers&quot;, &quot;id&quot;, &quot;nowrap&quot;, &quot;rowspan&quot;, &quot;scope&quot;, &quot;style&quot;, &quot;title&quot;], &quot;dl&quot;: [&quot;class&quot;, &quot;compact&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;blockquote&quot;: [&quot;cite&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;big&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;dd&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;meter&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;dt&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;p&quot;: [&quot;align&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;small&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;output&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;div&quot;: [&quot;align&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;em&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;datalist&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;hgroup&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;meta&quot;: [&quot;content&quot;, &quot;dir&quot;, &quot;http-equiv&quot;, &quot;id&quot;, &quot;name&quot;, &quot;scheme&quot;], &quot;video&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;rt&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;canvas&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;rp&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;sub&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;bdo&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;sup&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;progress&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;body&quot;: [&quot;alink&quot;, &quot;background&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;link&quot;, &quot;style&quot;, &quot;text&quot;, &quot;title&quot;, &quot;vlink&quot;], &quot;acronym&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;base&quot;: [&quot;href&quot;, &quot;id&quot;, &quot;target&quot;], &quot;br&quot;: [&quot;class&quot;, &quot;clear&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;address&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;article&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;strong&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;ol&quot;: [&quot;class&quot;, &quot;compact&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;, &quot;type&quot;], &quot;caption&quot;: [&quot;align&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;dialog&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;col&quot;: [&quot;align&quot;, &quot;char&quot;, &quot;charoff&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;span&quot;, &quot;style&quot;, &quot;title&quot;, &quot;width&quot;], &quot;h2&quot;: [&quot;align&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;h3&quot;: [&quot;align&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;h1&quot;: [&quot;align&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;h6&quot;: [&quot;align&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;h4&quot;: [&quot;align&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;h5&quot;: [&quot;align&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;header&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;table&quot;: [&quot;align&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;summary&quot;, &quot;title&quot;], &quot;span&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;area&quot;: [&quot;accesskey&quot;, &quot;alt&quot;, &quot;class&quot;, &quot;coords&quot;, &quot;dir&quot;, &quot;href&quot;, &quot;id&quot;, &quot;nohref&quot;, &quot;shape&quot;, &quot;style&quot;, &quot;tabindex&quot;, &quot;target&quot;, &quot;title&quot;], &quot;mark&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;dfn&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;var&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;cite&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;thead&quot;: [&quot;align&quot;, &quot;char&quot;, &quot;charoff&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;head&quot;: [&quot;dir&quot;, &quot;id&quot;, &quot;profile&quot;], &quot;hr&quot;: [&quot;align&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;noshade&quot;, &quot;size&quot;, &quot;style&quot;, &quot;title&quot;, &quot;width&quot;], &quot;ruby&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;b&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;colgroup&quot;: [&quot;align&quot;, &quot;char&quot;, &quot;charoff&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;span&quot;, &quot;style&quot;, &quot;title&quot;, &quot;width&quot;], &quot;keygen&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;ul&quot;: [&quot;class&quot;, &quot;compact&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;, &quot;type&quot;], &quot;del&quot;: [&quot;cite&quot;, &quot;class&quot;, &quot;datetime&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;pre&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;, &quot;width&quot;], &quot;figure&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;ins&quot;: [&quot;cite&quot;, &quot;class&quot;, &quot;datetime&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;tbody&quot;: [&quot;align&quot;, &quot;char&quot;, &quot;charoff&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;html&quot;: [&quot;dir&quot;, &quot;id&quot;, &quot;xmlns&quot;], &quot;nav&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;details&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;u&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;samp&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;map&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;name&quot;, &quot;title&quot;], &quot;a&quot;: [&quot;accesskey&quot;, &quot;charset&quot;, &quot;class&quot;, &quot;coords&quot;, &quot;dir&quot;, &quot;href&quot;, &quot;hreflang&quot;, &quot;id&quot;, &quot;name&quot;, &quot;rel&quot;, &quot;rev&quot;, &quot;shape&quot;, &quot;style&quot;, &quot;tabindex&quot;, &quot;target&quot;, &quot;title&quot;, &quot;type&quot;], &quot;footer&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;i&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;q&quot;: [&quot;cite&quot;, &quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;command&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;time&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;audio&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;section&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;], &quot;abbr&quot;: [&quot;class&quot;, &quot;dir&quot;, &quot;id&quot;, &quot;style&quot;, &quot;title&quot;]}, &quot;allow_captioned_images&quot;: false, &quot;labels&quot;: {&quot;label_plain_cell&quot;: &quot;Plain cell&quot;, &quot;label_lists&quot;: &quot;Lists&quot;, &quot;label_no_anchors&quot;: &quot;No anchors in this page&quot;, &quot;label_styles&quot;: &quot;(remove style)&quot;, &quot;label_selection&quot;: &quot;Selection&quot;, &quot;label_print&quot;: &quot;Print&quot;, &quot;label_style_ldots&quot;: &quot;Style...&quot;, &quot;label_text&quot;: &quot;Text&quot;, &quot;label_tables&quot;: &quot;Tables&quot;, &quot;label_no_items&quot;: &quot;No items in this folder&quot;, &quot;label_paragraph&quot;: &quot;Normal paragraph&quot;}, &quot;libraries_spellchecker_choice&quot;: &quot;browser&quot;, &quot;directionality&quot;: &quot;ltr&quot;, &quot;content_css&quot;: &quot;http://localhost:8080/simple/portal_tinymce/@@tinymce-getstyle&quot;, &quot;customplugins&quot;: [&quot;ploneimage&quot;, &quot;plonelink&quot;], &quot;rooted&quot;: false, &quot;parent&quot;: &quot;http://localhost:8080/simple/events/&quot;, &quot;resize_horizontal&quot;: false, &quot;toolbar_width&quot;: 440, &quot;editor_width&quot;: 600, &quot;atd_show_types&quot;: &quot;Bias Language,Cliches,Complex Expression,Diacritical Marks,Double Negatives,Hidden Verbs,Jargon Language,Passive voice,Phrases to Avoid,Redundant Expression&quot;, &quot;portal_url&quot;: &quot;http://localhost:8080/simple&quot;, &quot;atd_ignore_strings&quot;: &quot;Zope,Plone,TinyMCE&quot;, &quot;buttons&quot;: [&quot;style&quot;, &quot;bold&quot;, &quot;italic&quot;, &quot;justifyleft&quot;, &quot;justifycenter&quot;, &quot;justifyright&quot;, &quot;justifyfull&quot;, &quot;bullist&quot;, &quot;numlist&quot;, &quot;definitionlist&quot;, &quot;outdent&quot;, &quot;indent&quot;, &quot;image&quot;, &quot;link&quot;, &quot;unlink&quot;, &quot;anchor&quot;, &quot;tablecontrols&quot;, &quot;code&quot;, &quot;fullscreen&quot;, &quot;&quot;], &quot;resizing_use_cookie&quot;: true, &quot;livesearch&quot;: true, &quot;document_url&quot;: &quot;http://localhost:8080/simple/events/portal_factory/Event/event.2012-02-14.3645223054&quot;, &quot;path_location&quot;: &quot;bottom&quot;, &quot;table_styles&quot;: [&quot;Invisible grid=invisible&quot;, &quot;Fancy listing=listing&quot;, &quot;Fancy grid listing=grid listing&quot;, &quot;Fancy vertical listing=vertical listing&quot;], &quot;styles&quot;: [&quot;Invisible grid|table|invisible&quot;, &quot;Fancy listing|table|listing&quot;, &quot;Fancy grid listing|table|grid listing&quot;, &quot;Fancy vertical listing|table|vertical listing&quot;, &quot;Heading|h2&quot;, &quot;Subheading|h3&quot;, &quot;Literal|pre&quot;, &quot;Discreet|span|discreet&quot;, &quot;Pull-quote|blockquote|pullquote&quot;, &quot;Call-out|p|callout&quot;, &quot;Highlight|span|visualHighlight&quot;, &quot;Disc|ul|listTypeDisc&quot;, &quot;Square|ul|listTypeSquare&quot;, &quot;Circle|ul|listTypeCircle&quot;, &quot;Numbers|ol|listTypeDecimal&quot;, &quot;Lower Alpha|ol|listTypeLowerAlpha&quot;, &quot;Upper Alpha|ol|listTypeUpperAlpha&quot;, &quot;Lower Roman|ol|listTypeLowerRoman&quot;, &quot;Upper Roman|ol|listTypeUpperRoman&quot;, &quot;Definition term|dt&quot;, &quot;Definition description|dd&quot;, &quot;Odd row|tr|odd&quot;, &quot;Even row|tr|even&quot;, &quot;Heading cell|th|&quot;, &quot;Page break (print only)|div|pageBreak&quot;, &quot;Clear floats|div|visualClear&quot;], &quot;navigation_root_url&quot;: &quot;http://localhost:8080/simple&quot;, &quot;editor_height&quot;: 400, &quot;toolbar_location&quot;: &quot;top&quot;, &quot;autoresize&quot;: false, &quot;atd_rpc_url&quot;: &quot;http://localhost:8080/simple/@@&quot;, &quot;valid_inline_styles&quot;: [&quot;text-align&quot;, &quot;list-style-type&quot;, &quot;float&quot;, &quot;padding-left&quot;], &quot;resizing&quot;: true, &quot;atd_rpc_id&quot;: &quot;Products.TinyMCE-admin&quot;, &quot;language&quot;: &quot;en&quot;, &quot;contextmenu&quot;: true, &quot;entity_encoding&quot;: &quot;raw&quot;, &quot;link_using_uids&quot;: false}"
+            class="mce_editable" id="text"></textarea>
+
+  <script type="text/javascript">
+      tinymce.dom.Event.add(window, 'load', function(e) { var config = new TinyMCEConfig('text'); config.init(); });</script>
+
+  <div class="discreet suppressVisualEditor" style="margin-top: -1em;">
+    <a href="http://localhost:8080/simple/events/portal_factory/Event/event.2012-02-14.3645223054/atct_edit?tinymce.suppress=text&amp;">
+      Edit without visual editor
+    </a>
+  </div>
+
+  
+</div>
+  
+</div>
+      
+      
+    
+          <div class="fieldUploadFile">
+              <span class="discreet">or upload a file (existing content will be replaced)</span>
+              <input type="file" size="30" name="text_file" id="text_file" />
+          </div>
+        
+        </div>
+      
+
+      
+
+    
+    
+                  
+                  
+                    <div>
+      
+      
+        <div class="field ArchetypesLinesWidget  kssattr-atfieldname-attendees" id="archetypes-fieldname-attendees">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="attendees">
+                Attendees
+                
+            </label>
+            <div class="formHelp" id="attendees_help"></div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          <div>
+              <textarea rows="5" cols="40" name="attendees:lines" id="attendees"></textarea>
+          </div>
+        </div>
+      
+
+      
+
+    
+    </div>
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesStringWidget  kssattr-atfieldname-eventUrl" id="archetypes-fieldname-eventUrl">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="eventUrl">
+                Event URL
+                
+            </label>
+            <div class="formHelp" id="eventUrl_help">Web address with more info about the event. Add http:// for external links.</div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          <input type="text" name="eventUrl" class="blurrable firstToFocus" id="eventUrl" value="" size="30" maxlength="255" />
+        </div>
+      
+
+      
+
+    
+    
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesStringWidget  kssattr-atfieldname-contactName" id="archetypes-fieldname-contactName">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="contactName">
+                Contact Name
+                
+            </label>
+            <div class="formHelp" id="contactName_help"></div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          <input type="text" name="contactName" class="blurrable firstToFocus" id="contactName" value="" size="30" maxlength="255" />
+        </div>
+      
+
+      
+
+    
+    
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesStringWidget  kssattr-atfieldname-contactEmail" id="archetypes-fieldname-contactEmail">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="contactEmail">
+                Contact E-mail
+                
+            </label>
+            <div class="formHelp" id="contactEmail_help"></div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          <input type="text" name="contactEmail" class="blurrable firstToFocus" id="contactEmail" value="" size="30" maxlength="255" />
+        </div>
+      
+
+      
+
+    
+    
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesStringWidget  kssattr-atfieldname-contactPhone" id="archetypes-fieldname-contactPhone">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="contactPhone">
+                Contact Phone
+                
+            </label>
+            <div class="formHelp" id="contactPhone_help"></div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          <input type="text" name="contactPhone" class="blurrable firstToFocus" id="contactPhone" value="" size="30" maxlength="255" />
+        </div>
+      
+
+      
+
+    
+    
+                  
+                </fieldset>
+              
+              
+                <fieldset id="fieldset-categorization">
+                  <legend id="fieldsetlegend-categorization">Categorization</legend>
+                  
+                    
+            
+      
+        <div class="field ArchetypesKeywordWidget  kssattr-atfieldname-subject" id="archetypes-fieldname-subject">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="subject">
+                Event Type(s)
+                
+            </label>
+            <div class="formHelp" id="subject_help">Tags are commonly used for ad-hoc organization of content.</div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          
+            
+                    
+                    
+                    
+                        <dl id="newTagsSection">
+                            <label for="subject_keywords">
+                                <dt id="newTagsTitle">
+                                    <span>
+                                        Create and apply new tags. 
+                                    </span>
+                                </dt>
+                                <span id="newTagsHelp" class="formHelp">
+                                    Enter one tag per line, multiple words allowed.
+                                </span>
+                            </label>
+                            <br />
+                            <dd id="newTags">
+                                <textarea id="subject_keywords" name="subject_keywords:lines" rows="4"></textarea>
+                            </dd>
+                        </dl>
+                    
+              
+                
+        </div>
+      
+
+      
+
+    
+        
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesReferenceBrowserWidget  kssattr-atfieldname-relatedItems" id="archetypes-fieldname-relatedItems">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="relatedItems">
+                Related Items
+                
+            </label>
+            <div class="formHelp" id="relatedItems_help"></div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          
+          
+
+      <input type="hidden" value="" name="relatedItems:default:list" />
+
+      
+      
+
+        <input type="hidden" value="1" name="relatedItems-sortable" />
+
+        <div style="float: left"> <!-- don't remove this. it is needed for DOM traversal -->
+
+          
+        </div>
+      
+      <div style="clear: both">
+        <input type="button" class="searchButton addreference" value="Add..." src="http://localhost:8080/simple/events/portal_factory/Event/event.2012-02-14.3645223054/refbrowser_popup?fieldName=relatedItems&amp;fieldRealName=relatedItems&amp;at_url=/simple/events/portal_factory/Event/event.2012-02-14.3645223054" rel="#atrb_relatedItems" />            
+        
+           </div><div id="atrb_relatedItems" class="overlay overlay-ajax"><div class="close"><span>Close</span></div>
+           <div class="pb-ajax">
+             <!-- <a href="" i18n:translate="referencebrowser_back" class="refbrowser_back">Back</a> -->
+             <div class="overlaycontent" style="font-size: 125%"></div>
+             <!-- <a href="" i18n:translate="referencebrowser_back" class="refbrowser_back">Back</a> -->
+           </div>
+           </div>
+      <!-- Todo? -->
+      
+    
+
+    
+        
+        </div>
+      
+
+      
+
+    
+    
+                  
+                  
+                    
+        
+      
+        <div class="field ArchetypesLanguageWidget  kssattr-atfieldname-language" id="archetypes-fieldname-language">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="language">
+                Language
+                
+            </label>
+            <div class="formHelp" id="language_help"></div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          
+                
+                
+                    <!-- Pulldown when longer -->
+                    <select name="language" id="language">
+                        <option value="">Language neutral</option>
+                        <option value="ab">Abkhazian</option>
+                        <option value="aa">Afar</option>
+                        <option value="af">Afrikaans</option>
+                        <option value="sq">Albanian</option>
+                        <option value="am">Amharic</option>
+                        <option value="ar">Arabic</option>
+                        <option value="hy">Armenian</option>
+                        <option value="as">Assamese</option>
+                        <option value="ay">Aymara</option>
+                        <option value="az">Azerbaijani</option>
+                        <option value="ba">Bashkir</option>
+                        <option value="eu">Basque</option>
+                        <option value="be">Belarussian</option>
+                        <option value="bn">Bengali</option>
+                        <option value="bh">Bihari</option>
+                        <option value="bi">Bislama</option>
+                        <option value="bs">Bosnian</option>
+                        <option value="br">Breton</option>
+                        <option value="bg">Bulgarian</option>
+                        <option value="my">Burmese</option>
+                        <option value="km">Cambodian/Khmer</option>
+                        <option value="ca">Catalan</option>
+                        <option value="zh">Chinese</option>
+                        <option value="kw">Cornish</option>
+                        <option value="co">Corsican</option>
+                        <option value="hr">Croatian</option>
+                        <option value="cs">Czech</option>
+                        <option value="da">Danish</option>
+                        <option value="nl">Dutch</option>
+                        <option selected="selected" value="en">English</option>
+                        <option value="eo">Esperanto</option>
+                        <option value="et">Estonian</option>
+                        <option value="fo">Faroese</option>
+                        <option value="fj">Fiji</option>
+                        <option value="fi">Finnish</option>
+                        <option value="fr">French</option>
+                        <option value="fy">Frisian</option>
+                        <option value="gl">Galician</option>
+                        <option value="ka">Georgian</option>
+                        <option value="de">German</option>
+                        <option value="el">Greek</option>
+                        <option value="kl">Greenlandic</option>
+                        <option value="gn">Guarani</option>
+                        <option value="gu">Gujarati</option>
+                        <option value="ha">Hausa</option>
+                        <option value="he">Hebrew</option>
+                        <option value="hi">Hindi</option>
+                        <option value="hu">Hungarian</option>
+                        <option value="is">Icelandic</option>
+                        <option value="dz">Indian Bhutani</option>
+                        <option value="id">Indonesian</option>
+                        <option value="ia">Interlingua</option>
+                        <option value="ie">Interlingue</option>
+                        <option value="iu">Inuktitut</option>
+                        <option value="ik">Inupiak</option>
+                        <option value="ga">Irish Gaelic</option>
+                        <option value="it">Italian</option>
+                        <option value="ja">Japanese</option>
+                        <option value="jw">Javanese</option>
+                        <option value="kn">Kannada</option>
+                        <option value="ks">Kashmiri</option>
+                        <option value="kk">Kazakh</option>
+                        <option value="ky">Kirghiz</option>
+                        <option value="rn">Kirundi</option>
+                        <option value="rw">Kiyarwanda</option>
+                        <option value="ko">Korean</option>
+                        <option value="ku">Kurdish</option>
+                        <option value="lo">Laotian</option>
+                        <option value="la">Latin</option>
+                        <option value="lv">Latvian</option>
+                        <option value="li">Limburgish</option>
+                        <option value="ln">Lingala</option>
+                        <option value="lt">Lithuanian</option>
+                        <option value="lb">Luxemburgish</option>
+                        <option value="mk">Macedonian</option>
+                        <option value="mg">Madagascarian</option>
+                        <option value="ms">Malay</option>
+                        <option value="ml">Malayalam</option>
+                        <option value="mt">Maltese</option>
+                        <option value="gv">Manx Gaelic</option>
+                        <option value="mi">Maori</option>
+                        <option value="mr">Marathi</option>
+                        <option value="mo">Moldavian</option>
+                        <option value="mn">Mongolian</option>
+                        <option value="me">Montenegrin</option>
+                        <option value="na">Nauruan</option>
+                        <option value="ne">Nepali</option>
+                        <option value="se">Northern Sámi</option>
+                        <option value="no">Norwegian</option>
+                        <option value="nn">Nynorsk</option>
+                        <option value="oc">Occitan</option>
+                        <option value="or">Oriya</option>
+                        <option value="om">Oromo</option>
+                        <option value="ps">Pashto</option>
+                        <option value="fa">Persian</option>
+                        <option value="pl">Polish</option>
+                        <option value="pt">Portuguese</option>
+                        <option value="pa">Punjabi</option>
+                        <option value="qu">Quechua</option>
+                        <option value="rm">Rhaeto-Romance</option>
+                        <option value="ro">Romanian</option>
+                        <option value="ru">Russian</option>
+                        <option value="sm">Samoan</option>
+                        <option value="sg">Sangho</option>
+                        <option value="sa">Sanskrit</option>
+                        <option value="gd">Scottish Gaelic</option>
+                        <option value="sr">Serbian</option>
+                        <option value="sh">Serbo-Croatian</option>
+                        <option value="st">Sesotho</option>
+                        <option value="tn">Setswana</option>
+                        <option value="sn">Shona</option>
+                        <option value="sd">Sindhi</option>
+                        <option value="si">Singhalese</option>
+                        <option value="ss">Siswati</option>
+                        <option value="sk">Slovak</option>
+                        <option value="sl">Slovenian</option>
+                        <option value="so">Somali</option>
+                        <option value="es">Spanish</option>
+                        <option value="su">Sudanese</option>
+                        <option value="sw">Swahili</option>
+                        <option value="sv">Swedish</option>
+                        <option value="tg">Tadjik</option>
+                        <option value="tl">Tagalog</option>
+                        <option value="ta">Tamil</option>
+                        <option value="tt">Tatar</option>
+                        <option value="te">Telugu</option>
+                        <option value="th">Thai</option>
+                        <option value="bo">Tibetan</option>
+                        <option value="ti">Tigrinya</option>
+                        <option value="to">Tonga</option>
+                        <option value="ts">Tsonga</option>
+                        <option value="tr">Turkish</option>
+                        <option value="tk">Turkmen</option>
+                        <option value="tw">Twi</option>
+                        <option value="ug">Uigur</option>
+                        <option value="uk">Ukrainian</option>
+                        <option value="ur">Urdu</option>
+                        <option value="uz">Uzbek</option>
+                        <option value="vi">Vietnamese</option>
+                        <option value="vo">Volapük</option>
+                        <option value="wa">Walloon</option>
+                        <option value="cy">Welsh</option>
+                        <option value="wo">Wolof</option>
+                        <option value="xh">Xhosa</option>
+                        <option value="yi">Yiddish</option>
+                        <option value="yo">Yorouba</option>
+                        <option value="za">Zhuang</option>
+                        <option value="zu">Zulu</option>
+                    </select>
+                
+            
+        </div>
+      
+
+      
+
+    
+    
+                  
+                </fieldset>
+              
+              
+                <fieldset id="fieldset-dates">
+                  <legend id="fieldsetlegend-dates">Dates</legend>
+                  
+                    
+      
+      
+        <div class="field ArchetypesCalendarWidget  kssattr-atfieldname-effectiveDate" id="archetypes-fieldname-effectiveDate">
+          <span></span>
+          
+          
+          
+          <div class="fieldErrorBox"></div>
+          
+          <div class="formQuestion label">
+              Publishing Date
+              
+          </div>
+          <div class="formHelp" id="effectiveDate_help">The date when the item will be published. If no date is selected the item will be published immediately.</div>
+          
+            <div class="plone_jscalendar">
+
+      <input type="hidden" name="effectiveDate" id="edit_form_effectiveDate_2" />
+      <input type="hidden" id="effectiveDate" />
+
+      
+
+      
+        <span>
+          <select name="effectiveDate_year" id="edit_form_effectiveDate_2_year" size="1">
+          <option value="0000" selected="selected">--</option>
+          <option value="2001">2001</option>
+          <option value="2002">2002</option>
+          <option value="2003">2003</option>
+          <option value="2004">2004</option>
+          <option value="2005">2005</option>
+          <option value="2006">2006</option>
+          <option value="2007">2007</option>
+          <option value="2008">2008</option>
+          <option value="2009">2009</option>
+          <option value="2010">2010</option>
+          <option value="2011">2011</option>
+          <option value="2012">2012</option>
+          <option value="2013">2013</option>
+          <option value="2014">2014</option>
+          <option value="2015">2015</option>
+          <option value="2016">2016</option>
+          <option value="2017">2017</option>
+
+          </select>
+        </span>
+
+        
+
+        <span>/</span>
+
+        <span>
+        <select name="effectiveDate_month" id="edit_form_effectiveDate_2_month" size="1">
+          <option value="00" selected="selected">--</option>
+          <option value="01">January</option>
+          <option value="02">February</option>
+          <option value="03">March</option>
+          <option value="04">April</option>
+          <option value="05">May</option>
+          <option value="06">June</option>
+          <option value="07">July</option>
+          <option value="08">August</option>
+          <option value="09">September</option>
+          <option value="10">October</option>
+          <option value="11">November</option>
+          <option value="12">December</option>
+        </select>
+        </span>
+
+        <span>/</span>
+
+        <select name="effectiveDate_day" id="edit_form_effectiveDate_2_day" size="1">
+        
+            <option value="00" selected="selected">--</option>
+            <option value="01">1</option>
+            <option value="02">2</option>
+            <option value="03">3</option>
+            <option value="04">4</option>
+            <option value="05">5</option>
+            <option value="06">6</option>
+            <option value="07">7</option>
+            <option value="08">8</option>
+            <option value="09">9</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
+            <option value="13">13</option>
+            <option value="14">14</option>
+            <option value="15">15</option>
+            <option value="16">16</option>
+            <option value="17">17</option>
+            <option value="18">18</option>
+            <option value="19">19</option>
+            <option value="20">20</option>
+            <option value="21">21</option>
+            <option value="22">22</option>
+            <option value="23">23</option>
+            <option value="24">24</option>
+            <option value="25">25</option>
+            <option value="26">26</option>
+            <option value="27">27</option>
+            <option value="28">28</option>
+            <option value="29">29</option>
+            <option value="30">30</option>
+            <option value="31">31</option>
+        
+        </select>
+        <span class="plone-jscalendar-popup" style="display:none" id="edit_form_effectiveDate_2_popup">
+          <input type="hidden" name="effectiveDate_yearStart" value="0000" id="edit_form_effectiveDate_2_yearStart" />
+          <input type="hidden" name="effectiveDate_yearEnd" value="2017" id="edit_form_effectiveDate_2_yearEnd" />
+          <img src="http://localhost:8080/simple/popup_calendar.png" alt="" title="" height="16" width="16" />
+        </span>
+
+      
+
+      &nbsp;
+      <span>
+          <select name="effectiveDate_hour" id="edit_form_effectiveDate_2_hour" size="1">
+
+              <option value="12" selected="selected">--</option>
+              <option value="12">12</option>
+              <option value="01">01</option>
+              <option value="02">02</option>
+              <option value="03">03</option>
+              <option value="04">04</option>
+              <option value="05">05</option>
+              <option value="06">06</option>
+              <option value="07">07</option>
+              <option value="08">08</option>
+              <option value="09">09</option>
+              <option value="10">10</option>
+              <option value="11">11</option>
+
+          </select>
+      </span>
+
+      
+
+      <span>:</span>
+
+      <span>
+          <select name="effectiveDate_minute" id="edit_form_effectiveDate_2_minute" size="1">
+
+            <option value="00" selected="selected">--</option>
+            <option value="00">00</option>
+            <option value="05">05</option>
+            <option value="10">10</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+            <option value="25">25</option>
+            <option value="30">30</option>
+            <option value="35">35</option>
+            <option value="40">40</option>
+            <option value="45">45</option>
+            <option value="50">50</option>
+            <option value="55">55</option>
+
+         </select>
+      </span>
+
+      
+
+
+      <span>
+        <select name="effectiveDate_ampm" id="edit_form_effectiveDate_2_ampm" size="1">
+
+          <option value="AM" selected="selected">--</option>
+          <option value="AM">AM</option>
+          <option value="PM">PM</option>
+
+        </select>
+      </span>
+
+      
+    </div>
+          
+        
+        </div>
+      
+
+      
+
+    
+    
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesCalendarWidget  kssattr-atfieldname-expirationDate" id="archetypes-fieldname-expirationDate">
+          <span></span>
+          
+          
+          
+          <div class="fieldErrorBox"></div>
+          
+          <div class="formQuestion label">
+              Expiration Date
+              
+          </div>
+          <div class="formHelp" id="expirationDate_help">The date when the item expires. This will automatically make the item invisible for others at the given date. If no date is chosen, it will never expire.</div>
+          
+            <div class="plone_jscalendar">
+
+      <input type="hidden" name="expirationDate" id="edit_form_expirationDate_3" />
+      <input type="hidden" id="expirationDate" />
+
+      
+
+      
+        <span>
+          <select name="expirationDate_year" id="edit_form_expirationDate_3_year" size="1">
+          <option value="0000" selected="selected">--</option>
+          <option value="2001">2001</option>
+          <option value="2002">2002</option>
+          <option value="2003">2003</option>
+          <option value="2004">2004</option>
+          <option value="2005">2005</option>
+          <option value="2006">2006</option>
+          <option value="2007">2007</option>
+          <option value="2008">2008</option>
+          <option value="2009">2009</option>
+          <option value="2010">2010</option>
+          <option value="2011">2011</option>
+          <option value="2012">2012</option>
+          <option value="2013">2013</option>
+          <option value="2014">2014</option>
+          <option value="2015">2015</option>
+          <option value="2016">2016</option>
+          <option value="2017">2017</option>
+
+          </select>
+        </span>
+
+        
+
+        <span>/</span>
+
+        <span>
+        <select name="expirationDate_month" id="edit_form_expirationDate_3_month" size="1">
+          <option value="00" selected="selected">--</option>
+          <option value="01">January</option>
+          <option value="02">February</option>
+          <option value="03">March</option>
+          <option value="04">April</option>
+          <option value="05">May</option>
+          <option value="06">June</option>
+          <option value="07">July</option>
+          <option value="08">August</option>
+          <option value="09">September</option>
+          <option value="10">October</option>
+          <option value="11">November</option>
+          <option value="12">December</option>
+        </select>
+        </span>
+
+        <span>/</span>
+
+        <select name="expirationDate_day" id="edit_form_expirationDate_3_day" size="1">
+        
+            <option value="00" selected="selected">--</option>
+            <option value="01">1</option>
+            <option value="02">2</option>
+            <option value="03">3</option>
+            <option value="04">4</option>
+            <option value="05">5</option>
+            <option value="06">6</option>
+            <option value="07">7</option>
+            <option value="08">8</option>
+            <option value="09">9</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
+            <option value="13">13</option>
+            <option value="14">14</option>
+            <option value="15">15</option>
+            <option value="16">16</option>
+            <option value="17">17</option>
+            <option value="18">18</option>
+            <option value="19">19</option>
+            <option value="20">20</option>
+            <option value="21">21</option>
+            <option value="22">22</option>
+            <option value="23">23</option>
+            <option value="24">24</option>
+            <option value="25">25</option>
+            <option value="26">26</option>
+            <option value="27">27</option>
+            <option value="28">28</option>
+            <option value="29">29</option>
+            <option value="30">30</option>
+            <option value="31">31</option>
+        
+        </select>
+        <span class="plone-jscalendar-popup" style="display:none" id="edit_form_expirationDate_3_popup">
+          <input type="hidden" name="expirationDate_yearStart" value="0000" id="edit_form_expirationDate_3_yearStart" />
+          <input type="hidden" name="expirationDate_yearEnd" value="2017" id="edit_form_expirationDate_3_yearEnd" />
+          <img src="http://localhost:8080/simple/popup_calendar.png" alt="" title="" height="16" width="16" />
+        </span>
+
+      
+
+      &nbsp;
+      <span>
+          <select name="expirationDate_hour" id="edit_form_expirationDate_3_hour" size="1">
+
+              <option value="12" selected="selected">--</option>
+              <option value="12">12</option>
+              <option value="01">01</option>
+              <option value="02">02</option>
+              <option value="03">03</option>
+              <option value="04">04</option>
+              <option value="05">05</option>
+              <option value="06">06</option>
+              <option value="07">07</option>
+              <option value="08">08</option>
+              <option value="09">09</option>
+              <option value="10">10</option>
+              <option value="11">11</option>
+
+          </select>
+      </span>
+
+      
+
+      <span>:</span>
+
+      <span>
+          <select name="expirationDate_minute" id="edit_form_expirationDate_3_minute" size="1">
+
+            <option value="00" selected="selected">--</option>
+            <option value="00">00</option>
+            <option value="05">05</option>
+            <option value="10">10</option>
+            <option value="15">15</option>
+            <option value="20">20</option>
+            <option value="25">25</option>
+            <option value="30">30</option>
+            <option value="35">35</option>
+            <option value="40">40</option>
+            <option value="45">45</option>
+            <option value="50">50</option>
+            <option value="55">55</option>
+
+         </select>
+      </span>
+
+      
+
+
+      <span>
+        <select name="expirationDate_ampm" id="edit_form_expirationDate_3_ampm" size="1">
+
+          <option value="AM" selected="selected">--</option>
+          <option value="AM">AM</option>
+          <option value="PM">PM</option>
+
+        </select>
+      </span>
+
+      
+    </div>
+          
+        
+        </div>
+      
+
+      
+
+    
+    
+                  
+                </fieldset>
+              
+              
+                <fieldset id="fieldset-ownership">
+                  <legend id="fieldsetlegend-ownership">Ownership</legend>
+                  
+                    <div>
+      
+      
+        <div class="field ArchetypesLinesWidget  kssattr-atfieldname-creators" id="archetypes-fieldname-creators">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="creators">
+                Creators
+                
+            </label>
+            <div class="formHelp" id="creators_help">Persons responsible for creating the content of this item. Please enter a list of user names, one per line. The principal creator should come first.</div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          <div>
+              <textarea rows="3" cols="40" name="creators:lines" id="creators">admin</textarea>
+          </div>
+        </div>
+      
+
+      
+
+    
+    </div>
+                  
+                  
+                    <div>
+      
+      
+        <div class="field ArchetypesLinesWidget  kssattr-atfieldname-contributors" id="archetypes-fieldname-contributors">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="contributors">
+                Contributors
+                
+            </label>
+            <div class="formHelp" id="contributors_help">The names of people that have contributed to this item. Each contributor should be on a separate line.</div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          <div>
+              <textarea rows="5" cols="40" name="contributors:lines" id="contributors"></textarea>
+          </div>
+        </div>
+      
+
+      
+
+    
+    </div>
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesTextAreaWidget  kssattr-atfieldname-rights" id="archetypes-fieldname-rights">
+          <span></span>
+          
+          
+            <label class="formQuestion" for="rights">
+                Rights
+                
+            </label>
+            <div class="formHelp" id="rights_help">Copyright statement or other rights information on this item.</div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          
+          
+      
+
+        <textarea class="blurrable firstToFocus" rows="5" name="rights" cols="40" id="rights"></textarea>
+
+            
+
+            
+
+      
+    
+          
+      
+
+        
+        
+          <input type="hidden" name="rights_text_format" value="text/plain" />
+        
+      
+    
+        
+        </div>
+      
+
+      
+
+    
+    
+                  
+                </fieldset>
+              
+              
+                <fieldset id="fieldset-settings">
+                  <legend id="fieldsetlegend-settings">Settings</legend>
+                  
+                    
+      
+      
+        <div class="field ArchetypesBooleanWidget  kssattr-atfieldname-allowDiscussion" id="archetypes-fieldname-allowDiscussion">
+          
+
+        <input class="noborder" type="checkbox" value="on" name="allowDiscussion:boolean" id="allowDiscussion" />
+        <input type="hidden" value="" name="allowDiscussion:boolean:default" />
+      
+          
+          
+            <label class="formQuestion" for="allowDiscussion">
+                Allow comments
+                
+            </label>
+            <div class="formHelp" id="allowDiscussion_help">If selected, users can add comments to this item.</div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          <div></div>
+        </div>
+      
+
+      
+
+    
+    
+                  
+                  
+                    
+      
+      
+        <div class="field ArchetypesBooleanWidget  kssattr-atfieldname-excludeFromNav" id="archetypes-fieldname-excludeFromNav">
+          
+
+        <input class="noborder" type="checkbox" value="on" name="excludeFromNav:boolean" id="excludeFromNav" />
+        <input type="hidden" value="" name="excludeFromNav:boolean:default" />
+      
+          
+          
+            <label class="formQuestion" for="excludeFromNav">
+                Exclude from navigation
+                
+            </label>
+            <div class="formHelp" id="excludeFromNav_help">If selected, this item will not appear in the navigation tree</div>
+          
+          
+          <div class="fieldErrorBox"></div>
+          <div></div>
+        </div>
+      
+
+      
+
+    
+    
+                  
+                </fieldset>
+              
+            
+            
+          
+
+          
+    
+
+    
+
+    <div class="field editionComment" id="cmfeditions_version_comment_block">
+
+        <label for="cmfeditions_version_comment">Change note</label>
+        <div class="formHelp" id="cmfeditions_version_comment_help">
+            Enter a comment that describes the changes you made.
+        </div>
+
+        <input type="text" name="cmfeditions_version_comment" id="cmfeditions_version_comment" size="40" />
+    </div>
+
+
+
+          
+
+          <div class="formControls">
+	    
+              <input type="hidden" name="fieldsets:list" value="default" />
+	    
+	    
+              <input type="hidden" name="fieldsets:list" value="categorization" />
+	    
+	    
+              <input type="hidden" name="fieldsets:list" value="dates" />
+	    
+	    
+              <input type="hidden" name="fieldsets:list" value="ownership" />
+	    
+	    
+              <input type="hidden" name="fieldsets:list" value="settings" />
+	    
+
+	    
+
+	
+            <input type="hidden" name="form.submitted" value="1" />
+            <input type="hidden" name="add_reference.field:record" value="" />
+            <input type="hidden" name="add_reference.type:record" value="" />
+            <input type="hidden" name="add_reference.destination:record" value="" />
+
+            
+              
+                
+              
+              
+                
+              
+              
+                
+              
+            
+
+            
+
+            
+
+            
+            <input type="hidden" name="last_referer" value="http://localhost:8080/simple/events/createObject?type_name=Event" />
+
+            
+
+                
+                
+                <input class="context" type="submit" name="form.button.save" value="Save" />
+                <input class="standalone" type="submit" name="form.button.cancel" value="Cancel" />
+            
+
+            
+
+          </div>
+
+      </form>
+
+    </div>
+        
+    
+      
+    
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+</div>
+        </div>
+
+        
+        
+
+        
+        
+    </div>
+
+
+    <div class="row">
+        <div class="row">
+    <div class="cell width-full position-0">
+
+        <div id="portal-footer">
+            <p>
+                
+                The
+                <a href="http://plone.org">Plone<sup>&reg;</sup> Open Source CMS/WCM</a>
+                is
+                <acronym title="Copyright">&copy;</acronym>
+                2000-2012
+                by the
+                <a href="http://plone.org/foundation">Plone Foundation</a>
+                and friends.
+                
+
+                
+                Distributed under the
+                    <a href="http://creativecommons.org/licenses/GPL/2.0/">GNU GPL license</a>.
+                
+            </p>
+        </div>
+
+    </div>
+</div>
+
+<div id="portal-colophon">
+
+<div class="colophonWrapper">
+<ul>
+  <li>
+    <a href="http://plone.org" title="This site was built using the Plone Open Source CMS/WCM.">
+      Powered by Plone &amp; Python</a>
+  </li>
+</ul>
+</div>
+</div>
+
+<ul id="portal-siteactions">
+
+    <li id="siteaction-sitemap"><a href="http://localhost:8080/simple/sitemap" accesskey="3" title="Site Map">Site Map</a></li>
+    <li id="siteaction-accessibility"><a href="http://localhost:8080/simple/accessibility-info" accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-contact"><a href="http://localhost:8080/simple/contact-info" accesskey="9" title="Contact">Contact</a></li>
+</ul>
+
+
+        <div id="kss-spinner">
+            <img alt="" src="http://localhost:8080/simple/spinner.gif" />
+        </div>
+    </div>
+
+</div>
+</body>
+</html>
+
+
+
+
+
