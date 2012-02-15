@@ -1,0 +1,10 @@
+.installed.cfg
+.mr.developer.cfg
+EventIndexBench.wpr
+EventIndexBench.wpu
+bin/
+develop-eggs/
+parts/
+src/
+var/
+
